@@ -2,7 +2,7 @@
 # Hi :raised_hand_with_fingers_splayed: I'm Taeeun
 
 
-<br><br>
+<br>
 
 ## 🧰 Languages and Tools:
 <br>
@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 
 
 -->
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taeeunn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 

@@ -1,5 +1,4 @@
 
-# Hi :raised_hand_with_fingers_splayed: I'm Taeeun
 
 
 <br>
